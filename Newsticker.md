@@ -1,1 +1,3 @@
 The 2020 Summer Olympics 
+
+An Olympic event hosted in Tokyo featuring a variety of sports. Although it was supposed to be hosted durng 2020, it was unfortunately postponed until 2021 due to the COVID-19 pandemic.
